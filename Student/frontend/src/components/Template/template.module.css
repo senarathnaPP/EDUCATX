@@ -1,0 +1,10 @@
+.mainPage h2 {
+    text-align: center;
+}
+
+.mainPage .cards {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+    justify-content: space-around;
+}

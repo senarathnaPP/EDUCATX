@@ -1,0 +1,25 @@
+.main form input {
+    outline: none;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: silver;
+    font-size: 14px;
+}
+
+.main {
+    border: 2px solid black;
+    padding: 2rem;
+    box-shadow: 0 1rem 1.4rem rgba(0, 0, 0, 1);
+    border-radius: .8rem;
+}
+
+.main button {
+    margin-left: 3.7rem;
+    margin-top: 2rem;
+}
+
+.main h2 {
+    font-variant: small-caps;
+
+}

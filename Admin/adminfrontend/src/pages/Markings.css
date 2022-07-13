@@ -1,0 +1,100 @@
+.containerA {
+  display: flex;
+  flex-flow: column;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+  background-color: rgb(108, 144, 190);
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.containerTemp {
+  display: flex;
+  flex-flow: column;
+  /* align-items: center; */
+  max-width: 1120px;
+  width: 70%;
+  margin: 0 auto;
+  /* background-color: rgb(108, 144, 190); */
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.dateBox {
+  margin-left: 4px;
+  padding: 6px 8px;
+  max-width: calc((100%) - 950px);
+  font-size: 15px;
+  font-weight: 700;
+  color: #fff;
+  background-color: #1d1f30;
+  box-sizing: border-box;
+}
+
+.message {
+  font-weight: 900;
+  color: tomato;
+  padding: 1rem 1rem 1rem 0;
+}
+
+.markings__container {
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+  background-color: #1f4d92;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 700;
+  color: #fff;
+}
+
+.buttonAdd {
+  background-color: #000080;
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+h5 {
+  font-weight: 500;
+  color: #fff;
+}
+
+
+.containerB {
+  display: flex;
+  flex-flow: column;
+  max-width: 1320px;
+  width: 100%;
+  background-color: rgb(207, 213, 221);
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.template__container {
+  display: flex;
+  flex-flow: column;
+  /* align-items: flex-start; */
+  text-align: center;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+  background-color: #5a6575;
+}
+
+

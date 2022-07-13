@@ -1,0 +1,32 @@
+.mainPage {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.supervisors {
+    border: 1px solid black;
+    align-items: right;
+    padding: 1rem;
+    justify-content: space-between;
+    margin-left: 15rem;
+}
+
+.topics {
+    border: 1px solid black;
+    align-items: right;
+    padding: 1rem;
+    justify-content: space-between;
+    margin-left: 10rem;
+}
+
+.supervisors h2 {
+    text-align: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}

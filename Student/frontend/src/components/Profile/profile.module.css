@@ -1,0 +1,14 @@
+.main img {
+    width: 200px;
+    height: 200px;
+}
+
+.main span {
+    font-size: larger;
+    color: black;
+    font-weight: bold;
+    margin-left: 10px;
+    display: flex;
+    justify-items: center;
+
+}

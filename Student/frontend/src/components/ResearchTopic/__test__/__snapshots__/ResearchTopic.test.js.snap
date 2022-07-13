@@ -1,0 +1,445 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="main-wrapper"
+  data-testid="topic"
+>
+  <div
+    className="app-header"
+  >
+    <div
+      className="header"
+    >
+      <img
+        src="std2.jpg"
+      />
+      <h3
+        style={
+          Object {
+            "color": "white",
+            "marginLeft": "870px",
+            "marginTop": "1rem",
+          }
+        }
+      >
+        
+        (
+        
+        )
+      </h3>
+      <button
+        className="header-logout-button"
+        onClick={[Function]}
+      >
+        Logout
+      </button>
+    </div>
+  </div>
+  <div
+    className="app-body"
+  >
+    <div
+      className="body-wrapper"
+    >
+      <div
+        className="app-sidebar"
+      >
+        <div
+          className="sidebar"
+        >
+          <ul
+            className="sidebarList"
+          >
+            <li
+              className="row"
+            >
+              <a
+                href="/home"
+                onClick={[Function]}
+              >
+                <i>
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    strokeWidth="0"
+                    style={
+                      Object {
+                        "color": undefined,
+                      }
+                    }
+                    viewBox="0 0 16 16"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6zm5-.793V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z"
+                      fillRule="evenodd"
+                    />
+                    <path
+                      d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z"
+                      fillRule="evenodd"
+                    />
+                  </svg>
+                </i>
+                <span>
+                  Home
+                </span>
+              </a>
+            </li>
+            <li
+              className="row"
+            >
+              <a
+                href="/group"
+                onClick={[Function]}
+              >
+                <i>
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    strokeWidth="0"
+                    style={
+                      Object {
+                        "color": undefined,
+                      }
+                    }
+                    viewBox="0 0 16 16"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H7zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"
+                    />
+                    <path
+                      d="M5.216 14A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216z"
+                      fillRule="evenodd"
+                    />
+                    <path
+                      d="M4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                    />
+                  </svg>
+                </i>
+                <span>
+                  Create Group
+                </span>
+              </a>
+            </li>
+            <li
+              className="row"
+            >
+              <a
+                href="/template"
+                onClick={[Function]}
+              >
+                <i>
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    strokeWidth="0"
+                    style={
+                      Object {
+                        "color": undefined,
+                      }
+                    }
+                    viewBox="0 0 16 16"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V4.5z"
+                    />
+                  </svg>
+                </i>
+                <span>
+                  Templates
+                </span>
+              </a>
+            </li>
+            <li
+              className="row"
+            >
+              <a
+                href="/submissions"
+                onClick={[Function]}
+              >
+                <i>
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    strokeWidth="0"
+                    style={
+                      Object {
+                        "color": undefined,
+                      }
+                    }
+                    viewBox="0 0 16 16"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0zM9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1zM6.354 9.854a.5.5 0 0 1-.708-.708l2-2a.5.5 0 0 1 .708 0l2 2a.5.5 0 0 1-.708.708L8.5 8.707V12.5a.5.5 0 0 1-1 0V8.707L6.354 9.854z"
+                    />
+                  </svg>
+                </i>
+                <span>
+                  Submission
+                </span>
+              </a>
+            </li>
+            <li
+              className="row"
+            >
+              <a
+                href="/profile"
+                onClick={[Function]}
+              >
+                <i>
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    strokeWidth="0"
+                    style={
+                      Object {
+                        "color": undefined,
+                      }
+                    }
+                    viewBox="0 0 16 16"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"
+                    />
+                    <path
+                      d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"
+                      fillRule="evenodd"
+                    />
+                  </svg>
+                </i>
+                <span>
+                  My Profile
+                </span>
+              </a>
+            </li>
+            <li
+              className="row"
+            >
+              <a
+                href="/studentmsg"
+                onClick={[Function]}
+              >
+                <i>
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    strokeWidth="0"
+                    style={
+                      Object {
+                        "color": undefined,
+                      }
+                    }
+                    viewBox="0 0 16 16"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"
+                    />
+                    <path
+                      d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"
+                      fillRule="evenodd"
+                    />
+                  </svg>
+                </i>
+                <span>
+                  Message
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div
+        className="app-content"
+      >
+        <h1>
+          Selecting Topic
+        </h1>
+        <div
+          className="mainPage"
+        >
+          <div
+            className="topicForm"
+          >
+            <form
+              onSubmit={[Function]}
+            >
+              <div
+                className="form-group"
+              >
+                <label
+                  for="groupName"
+                >
+                  Group Name
+                </label>
+                <input
+                  aria-describedby="emailHelp"
+                  className="form-control"
+                  disabled={true}
+                  placeholder="Enter email"
+                  type="text"
+                />
+              </div>
+              <div
+                className="form-group"
+              >
+                <label
+                  for="exampleInputPassword1"
+                >
+                  Research Field
+                </label>
+                <select
+                  className="form-control"
+                  onChange={[Function]}
+                >
+                  <option>
+                    ...Choose
+                  </option>
+                  <option>
+                    IT
+                  </option>
+                  <option>
+                    SE
+                  </option>
+                  <option>
+                    CSNE
+                  </option>
+                  <option>
+                    CS
+                  </option>
+                </select>
+              </div>
+              <div
+                className="form-group"
+              >
+                <label
+                  for="groupName"
+                >
+                  Research Topic
+                </label>
+                <input
+                  className="form-control"
+                  onChange={[Function]}
+                  placeholder="Enter Research Topic"
+                  type="text"
+                />
+              </div>
+              <div
+                className="form-group"
+              >
+                <label
+                  for="groupName"
+                >
+                  Supervisor
+                </label>
+                <input
+                  className="form-control"
+                  onChange={[Function]}
+                  placeholder="Enter Supervisor"
+                  type="text"
+                />
+              </div>
+              <button
+                className="btn btn-primary"
+                type="submit"
+              >
+                Submit
+              </button>
+            </form>
+          </div>
+          <div
+            className="supervisors"
+          >
+            <h2>
+              Supervisors
+            </h2>
+            <table
+              className="table table-striped"
+            >
+              <thead>
+                <tr>
+                  <th
+                    scope="col"
+                  >
+                    #
+                  </th>
+                  <th
+                    scope="col"
+                  >
+                    Sup Name
+                  </th>
+                  <th
+                    scope="col"
+                  >
+                    Field
+                  </th>
+                </tr>
+              </thead>
+              <tbody />
+            </table>
+          </div>
+          <div
+            className="topics"
+          >
+            <h2>
+              Topics
+            </h2>
+            <table
+              className="table table-striped"
+            >
+              <thead>
+                <tr>
+                  <th
+                    scope="col"
+                  >
+                    #
+                  </th>
+                  <th
+                    scope="col"
+                  >
+                    Topics
+                  </th>
+                  <th
+                    scope="col"
+                  >
+                    Field
+                  </th>
+                </tr>
+              </thead>
+              <tbody />
+            </table>
+          </div>
+        </div>
+        <div>
+          <a
+            href="/viewRegDetails"
+          >
+            <button
+              className="btn btn-dark"
+            >
+              View Details
+            </button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

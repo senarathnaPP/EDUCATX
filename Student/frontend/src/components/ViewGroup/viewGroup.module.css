@@ -1,0 +1,64 @@
+.mainform form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 3rem;
+}
+
+.mainform {
+    display: flex;
+}
+
+.mainform input {
+    outline: none;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: silver;
+    font-size: 14px;
+}
+
+.groupDetail {
+    border: 2px solid brown;
+    width: 700px;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.details span {
+    justify-items: self-end;
+    color: yellowgreen;
+    justify-content: space-between;
+}
+
+.card {
+    display: grid;
+    grid-template-columns: 400px;
+    grid-template-areas: "image""text""stats";
+
+    font-family: roboto;
+    border-radius: 18px;
+    background: slategrey;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);
+    text-align: center;
+}
+
+.cardimage {
+    grid-area: image;
+}
+
+.cardtext {
+    grid-area: text;
+}
+
+.cardstats {
+    grid-area: stats;
+}
+
+.views {
+    margin-left: 5rem;
+}

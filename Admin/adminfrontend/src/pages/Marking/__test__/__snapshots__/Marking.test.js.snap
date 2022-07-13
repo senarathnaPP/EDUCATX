@@ -1,0 +1,362 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  data-testid="marking"
+>
+  <div>
+    <nav
+      className="navbar"
+    >
+      <div
+        className="navbar-container"
+      >
+        <a
+          className="navbar-logo"
+          href="/home"
+          onClick={[Function]}
+        >
+          <img
+            alt=""
+            class=""
+            src="logo1.png"
+            style={
+              Object {
+                "width": 60,
+              }
+            }
+          />
+            ADMIN PANEL
+        </a>
+        <div
+          className="menu-icon"
+          onClick={[Function]}
+        />
+        <ul
+          className="nav-menu"
+        />
+        <a
+          href="/login"
+        >
+          <a
+            className="btn--outline"
+            href="/sign up"
+            onClick={[Function]}
+          >
+            <button
+              className="btn \${checkButtonStyle} \${checkButtonSize}"
+            >
+               LOG OUT
+            </button>
+          </a>
+           
+        </a>
+      </div>
+    </nav>
+  </div>
+  <br />
+  <div
+    className="containerA"
+  >
+    <h2>
+      Create New Marking Scheme
+    </h2>
+    <form
+      encType="multipart/form-data"
+      onSubmit={[Function]}
+    >
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="markingId"
+        >
+          ID
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter Marking Scheme ID"
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="title"
+        >
+          Title
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter the title"
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="category"
+        >
+          Category
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter the category"
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="description"
+        >
+          Marking Scheme
+        </label>
+        <textarea
+          className="form-control"
+          onChange={[Function]}
+          rows="7"
+          value=""
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="updatedDate"
+        >
+          Updated Date
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter the relevant updated date"
+          type="date"
+          value=""
+        />
+      </div>
+      <ul>
+        <button
+          className="buttonAdd"
+          type="submit"
+        >
+          CREATE
+        </button>
+        <a
+          href="/viewMarkings"
+          onClick={[Function]}
+        >
+          <button
+            className="buttonAdd"
+          >
+            BACK TO LIST
+          </button>
+        </a>
+      </ul>
+    </form>
+  </div>
+  <div>
+    <br />
+    <div
+      className="footer-container"
+    >
+      <section
+        className="footer-subscription"
+      >
+        <p
+          className="footer-subscription-heading"
+        >
+          Research Management Admin Panel
+        </p>
+        <p
+          className="footer-subscription-text"
+        >
+          Manage all of your work in one place: Tasks, Docs, Chat, Goals, & more.
+        </p>
+        <div
+          className="input-areas"
+        >
+          <form>
+            <input
+              className="footer-input"
+              name="email"
+              placeholder="Your Email"
+              type="email"
+            />
+            <div
+              className="btn--outline"
+            >
+              <a
+                className="btn-mobile"
+                href="/sign up"
+                onClick={[Function]}
+              >
+                <button
+                  className="btn \${checkButtonStyle} \${checkButtonSize}"
+                >
+                  Subscribe
+                </button>
+              </a>
+            </div>
+          </form>
+        </div>
+      </section>
+      <div
+        class="footer-links"
+      >
+        <div
+          className="footer-link-wrapper"
+        >
+          <div
+            class="footer-link-items"
+          >
+            <h3>
+              About Research
+            </h3>
+            <a
+              href="/sign-up"
+              onClick={[Function]}
+            >
+              How it works
+            </a>
+            <a
+              href="/"
+              onClick={[Function]}
+            >
+              Tools
+            </a>
+            <a
+              href="/"
+              onClick={[Function]}
+            >
+              Careers
+            </a>
+          </div>
+          <div
+            class="footer-link-items"
+          >
+            <h3>
+              Tasks
+            </h3>
+            <a
+              href="/"
+              onClick={[Function]}
+            >
+              User Management
+            </a>
+            <a
+              href="/"
+              onClick={[Function]}
+            >
+              Panel Members 
+            </a>
+            <a
+              href="/"
+              onClick={[Function]}
+            >
+              Roles 
+            </a>
+          </div>
+        </div>
+        <div
+          className="footer-link-wrapper"
+        >
+          <div
+            class="footer-link-items"
+          >
+            <h3>
+              Creations
+            </h3>
+            <a
+              href="/"
+              onClick={[Function]}
+            >
+              Submission Types
+            </a>
+            <a
+              href="/"
+              onClick={[Function]}
+            >
+              Marking Schemes
+            </a>
+            <a
+              href="/"
+              onClick={[Function]}
+            >
+              Templates
+            </a>
+          </div>
+          <div
+            class="footer-link-items"
+          >
+            <h3>
+              Quick Links
+            </h3>
+            <a
+              href="/"
+              onClick={[Function]}
+            >
+              Blogs
+            </a>
+            <a
+              href="/"
+              onClick={[Function]}
+            >
+              QA
+            </a>
+            <a
+              href="/"
+              onClick={[Function]}
+            >
+              Contact us
+            </a>
+          </div>
+        </div>
+      </div>
+      <section
+        class="social-media"
+      >
+        <div
+          class="social-media-wrap"
+        >
+          <div
+            class="footer-logo"
+          >
+            <a
+              className="social-logo"
+              href="/"
+              onClick={[Function]}
+            >
+              <img
+                alt=""
+                class="logo"
+                src="logo1.png"
+                style={
+                  Object {
+                    "width": 50,
+                  }
+                }
+              />
+                EDUCATX Admin Panel
+            </a>
+          </div>
+          <small
+            class="website-rights"
+          >
+            EDUCATX Admin Panel © 2022
+          </small>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+`;
